@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m Senior Flutter, Anndroid Developer
+- 🌱 I’m currently learning Backend (Django, Golang, NodeJs...) and want to become a Blockchain Developer
+- 📫 How to reach me: https://tinyflutterteam.com
+
+
+![](https://github.com/simplesoft-duongdt3/DevProfile/blob/master/generated/overview.svg)
+![](https://github.com/simplesoft-duongdt3/DevProfile/blob/master/generated/languages.svg)
+
 <!--
 **simplesoft-duongdt3/simplesoft-duongdt3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
