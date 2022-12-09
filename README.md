@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m Senior Flutter, Anndroid Developer
-- 🌱 I’m currently learning Backend (Django, Golang, NodeJs...) and want to become a Blockchain Developer
+- 🌱 I’m currently working as Backend Developer (Java (Spring Boot), Django, NodeJs...).
 - 📫 How to reach me: https://tinyflutterteam.com
 
 
